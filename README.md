@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @savannajburgess
 - 👀 I’m interested in Software devlopment, Project Management and Beauty!
-- 🌱 I’m currently earning a BBA in information systems and management @ UW-Madison!
+- 🌱 I’m currently earning a BBA in information systems and Management @ UW-Madison!
 - 💞️ I’m looking to collaborate on fun projects!
 - 📫 How to reach me savannajburgess@gmail.com
 - 😄 Pronouns: she/her/hers
