@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Fashion Review website (Full stack devlopment) </b>
+  -  [Fashion Review Project](https://github.com/savannajburgess/FashionReview)
 
 <h2> 🤳 Connect with me:</h2>
 
