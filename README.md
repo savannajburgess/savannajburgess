@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Fashion Review website (Full stack devlopment) </b>
-  -  [Fashion Review Project](https://github.com/savannajburgess/Fashionnow)
+  -  [Fashion Review Project](https://github.com/savannajburgess/FashionReview)
 
 <h2> 🤳 Connect with me:</h2>
 
