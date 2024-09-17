@@ -1,4 +1,4 @@
-<h1>Hi, I'm Savanna Burgess! <br/> Student,  </<a href="https://github.com/savannajburgess">Software Developer </a>, Project Manager </h1>
+<h1>Hi, I'm Savanna Burgess! <br/> Information Systems Student,  </<a href="https://github.com/savannajburgess">Software Developer </a>, Project Management </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
